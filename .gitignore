@@ -1,6 +1,6 @@
 .ipynb_checkpoints
-data
-submission
+data/*
+submission/*
 
 !submission/README.MD
 !data/README.MD
