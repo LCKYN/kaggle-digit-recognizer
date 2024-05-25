@@ -1,4 +1,6 @@
 /data
-res/submission_state_of_the_art_model_do_nothing.csv
+/res
 efficientnet_b0_architecture
 efficientnet_b0_architecture.png
+2dcnn_5x5_32_architecture
+2dcnn_5x5_32_architecture.png
